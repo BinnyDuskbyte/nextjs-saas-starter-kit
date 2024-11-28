@@ -7,7 +7,7 @@ if (!process.env.STRIPE_SECRET_KEY) {
 }
 
 
-stripe = new Stripe("sk_test_51MvdOmKtF9JswSRSvzsNdRtbT9Q3LrPnIlE2KKraXl7UVALVVdUqy8u6wFtlSFiFIGAI2XHwM6FsMM3vV8rjZBa900TX0oV1eI" as string, {
+stripe = new Stripe(process.env.STRIPE_SECRET_KEY as string, {
     apiVersion: '2022-11-15', // Use the latest API version or as per your requirements
 });
 
