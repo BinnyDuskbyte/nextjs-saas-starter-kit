@@ -42,7 +42,7 @@ Ensure you have the following installed on your machine:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/nextjs-saas-starter.git
+   git clone https://github.com/BinnyDuskbyte/nextjs-saas-starter-kit.git
    cd nextjs-saas-starter
 
 2. **Install Dependencies**
@@ -222,7 +222,7 @@ A Dockerfile and docker-compose.yml are provided for containerizing the applicat
           git init
           git add .
           git commit -m "Initial commit"
-          git remote add origin https://github.com/yourusername/nextjs-saas-starter.git
+          git remote add origin https://github.com/BinnyDuskbyte/nextjs-saas-starter-kit.git
           git push -u origin main
         ```
     2. Connect to Vercel
