@@ -273,5 +273,10 @@ Thank you for choosing the Next.js SaaS Starter Kit! We hope this starter kit he
 Happy Coding! 🚀
 
 ## 📸 Screenshots
+![alt text](public/images/screenshots/NextJs_SaaS_Starter_Kit.png)
 
-Include screenshots of your application here to give users a visual overview of what to expect.
+![alt text](public/images/screenshots/Login.png)
+
+![alt text](public/images/screenshots/Register.png)
+
+![alt text](<public/images/screenshots/Subscribe Pro Plan.png>)
